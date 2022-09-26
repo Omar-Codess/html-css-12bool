@@ -13,9 +13,12 @@
 }
 
 /* Utility */
-/* padding */
 .pad-05{
     padding: .5em;
+}
+
+.mt-1{
+    margin-top: 1em;
 }
 
 /* Row */
@@ -29,265 +32,265 @@
 /* Columns */
 .col-1{
     flex-basis: calc((100% / 12) * 1);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-2{
     flex-basis: calc((100% / 12) * 2);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-3{
     flex-basis: calc((100% / 12) * 3);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-4{
     flex-basis: calc((100% / 12) * 4);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-5{
     flex-basis: calc((100% / 12) * 5);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-6{
     flex-basis: calc((100% / 12) * 6);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-7{
     flex-basis: calc((100% / 12) * 7);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-8{
     flex-basis: calc((100% / 12) * 8);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-9{
     flex-basis: calc((100% / 12) * 9);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-10{
     flex-basis: calc((100% / 12) * 10);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-11{
     flex-basis: calc((100% / 12) * 11);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 .col-12{
     flex-basis: calc((100% / 12) * 12);
-    height: 60px;
+    height: 50px;
     border: solid 1px white;
     background-color: #006cfa;
     text-align: center;
     color: white;
-    line-height: 60px;
+    line-height: 50px;
     vertical-align: middle;
 }
 
 /* Nested Columns */
 .nested-col-1{
     flex-basis: calc((100% / 12) * 1);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-2{
     flex-basis: calc((100% / 12) * 2);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-3{
     flex-basis: calc((100% / 12) * 3);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-4{
     flex-basis: calc((100% / 12) * 4);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-5{
     flex-basis: calc((100% / 12) * 5);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-6{
     flex-basis: calc((100% / 12) * 6);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-7{
     flex-basis: calc((100% / 12) * 7);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-8{
     flex-basis: calc((100% / 12) * 8);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-9{
     flex-basis: calc((100% / 12) * 9);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-10{
     flex-basis: calc((100% / 12) * 10);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-11{
     flex-basis: calc((100% / 12) * 11);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
 
 .nested-col-12{
     flex-basis: calc((100% / 12) * 12);
-    height: 40px;
+    height: 30px;
     border: solid 1px #006cfa;
     background-color: #00e165;
     text-align: center;
     color: white;
-    line-height: 40px;
+    line-height: 30px;
     vertical-align: middle;
 }
